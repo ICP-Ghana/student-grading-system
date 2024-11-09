@@ -18,3 +18,12 @@ This is a **Student Grading System** created as a mini project assigned after a 
   `cd student-grading-system`
 
 
+##Members
+
+1. Collins Effah
+2. Kofi Kusi
+3. Frederick Teye
+4. Amankkwah Alexander 
+5. Reggie Adino
+
+
