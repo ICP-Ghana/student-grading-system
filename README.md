@@ -18,7 +18,7 @@ This is a **Student Grading System** created as a mini project assigned after a 
   `cd student-grading-system`
 
 
-##Members
+## Members
 
 1. Collins Effah
 2. Kofi Kusi
